@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@vietdev0710&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@vietdev0710&layout=compact)
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:stats-->
@@ -10,5 +10,5 @@
 <!--END_SECTION:repo-->
 
 <!--START_SECTION:top-lang-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranviet0710&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranviet0710&layout=pie)
 <!--END_SECTION:top-lang-->
