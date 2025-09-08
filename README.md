@@ -7,7 +7,6 @@
 <!--END_SECTION:stats-->
 
 <!--START_SECTION:repo-->
-<!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tranviet0710&repo=tranviet0710) -->
 <!--END_SECTION:repo-->
 
 <!--START_SECTION:top-lang-->
