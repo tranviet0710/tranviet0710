@@ -1,5 +1,13 @@
 <!--START_SECTION:waka-->
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@vietdev0710&layout=compact)
+
+```txt
+TypeScript   10 hrs 27 mins  █████████████████████▓░░░   86.07 %
+Markdown     37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+YAML         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:stats-->
