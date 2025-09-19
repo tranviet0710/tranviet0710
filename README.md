@@ -1,14 +1,5 @@
 <!--START_SECTION:waka-->
-
-```txt
-TypeScript   10 hrs 28 mins  ██████████████▒░░░░░░░░░░   57.77 %
-JavaScript   4 hrs 36 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
-Markdown     2 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Bash         44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-```
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vietdev0710&theme=transparent)
-
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:stats-->
