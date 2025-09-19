@@ -18,5 +18,10 @@ JSON         13 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:repo-->
 
 <!--START_SECTION:top-lang-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranviet0710&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranviet0710&layout=pie&theme=dark)
 <!--END_SECTION:top-lang-->
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tranviet0710&theme=gruvbox)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tranviet0710&repo=README.md&theme=dark)
+
