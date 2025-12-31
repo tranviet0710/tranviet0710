@@ -85,45 +85,9 @@ TypeScript   4 hrs 11 mins   ██▒░░░░░░░░░░░░░░
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=tranviet0710&theme=transparent&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tranviet0710&theme=transparent&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)
 
 </div>
-
----
-
-## 📌 Featured Projects
-
-<!--START_SECTION:repo-->
-
-### 🏥 [Orphanage Management System](https://github.com/F4-Plus-DUT/BE-orphanage-management)
-
-Backend system for managing orphanage operations with Python/Flask
-
-- **Tech Stack:** Python, Flask, RESTful API
-- **Features:** Comprehensive management system for orphanage administration
-
-### 📱 [Orphanage Management Mobile App](https://github.com/F4-Plus-DUT/Mobile-orphanage-management)
-
-Mobile application for orphanage management using Flutter
-
-- **Tech Stack:** Dart, Flutter
-- **Features:** Cross-platform mobile solution for orphanage operations
-
-### 🎵 [ZineMP3 Clone](https://github.com/giabao2807/mobile-programming-zineMp3)
-
-Music streaming application built with Java
-
-- **Tech Stack:** Java, Android
-- **Features:** Music player with streaming capabilities
-
-### 🌐 [Portfolio Website](https://github.com/tranviet0710/tranviet0710.github.io)
-
-Personal portfolio showcasing projects and skills
-
-- **Tech Stack:** HTML, SCSS, JavaScript
-- **Live:** [tranviet0710.github.io](https://tranviet0710.github.io/)
-
-<!--END_SECTION:repo-->
 
 ---
 
