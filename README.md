@@ -175,7 +175,7 @@ TypeScript   4 hrs 11 mins   ██▒░░░░░░░░░░░░░░
 
 <div align="center">
 
-![3D Contribution Graph](https://github-contributions-3d.vercel.app/api/tranviet0710)
+![3D Contribution Graph](https://raw.githubusercontent.com/tranviet0710/tranviet0710/profile-3d-contrib/profile-3d-contrib.svg)
 
 </div>
 
