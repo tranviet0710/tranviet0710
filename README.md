@@ -175,7 +175,7 @@ TypeScript   4 hrs 11 mins   ██▒░░░░░░░░░░░░░░
 
 <div align="center">
 
-![3D Contribution Graph](https://raw.githubusercontent.com/tranviet0710/tranviet0710/profile-3d-contrib/profile-3d-contrib.svg)
+![3D Contribution Graph](https://raw.githubusercontent.com/tranviet0710/tranviet0710/main/profile-3d-contrib/profile-green-animate.svg)
 
 </div>
 
