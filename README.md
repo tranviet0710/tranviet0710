@@ -30,11 +30,11 @@ I'm a passionate software engineer based in Vietnam who loves building innovativ
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   11 hrs 39 mins  ████████████▒░░░░░░░░░░░░   49.66 %
-TSConfig     4 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
-Markdown     2 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-TypeScript   1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-Bash         1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+JavaScript   12 hrs 17 mins  ████████████▓░░░░░░░░░░░░   51.18 %
+TSConfig     4 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
+Markdown     2 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
+TypeScript   1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+Bash         1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
 ```
 
 <!--END_SECTION:waka-->
