@@ -1,0 +1,29 @@
+name: Refresh README Cards
+
+on:
+  schedule:
+    - cron: "30 18 * * *" # daily, 01:30 Vietnam time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    name: fetch-stats-langs-trophy-cards
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Fetch cards
+        env:
+          USERNAME: ${{ github.repository_owner }}
+        run: bash .github/scripts/fetch-readme-cards.sh
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets
+          git diff --staged --quiet || git commit -m "refresh readme cards"
+          git push
