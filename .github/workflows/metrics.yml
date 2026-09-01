@@ -1,0 +1,29 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "45 18 * * *" # daily, 01:45 Vietnam time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    name: render-metrics-svg
+    steps:
+      # The hosted instance (metrics.lecoq.io) answers 500, so the card is
+      # rendered here and committed to assets/ instead of being embedded live.
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          filename: assets/metrics.svg
+          template: classic
+          base: ""
+          config_timezone: Asia/Ho_Chi_Minh
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_limit: 8
