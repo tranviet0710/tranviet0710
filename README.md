@@ -65,7 +65,7 @@ Other        35 mins               █░░░░░░░░░░░░░░
 
 <div align="center"> <!--START_SECTION:stats-->
 
-![tranviet0710's GitHub stats](https://github-readme-stats.vercel.app/api?username=tranviet0710&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true)
+![tranviet0710's GitHub stats](https://raw.githubusercontent.com/tranviet0710/tranviet0710/master/assets/stats.svg)
 
 <!--END_SECTION:stats--> </div>
 
@@ -75,7 +75,7 @@ Other        35 mins               █░░░░░░░░░░░░░░
 
 <div align="center"> <!--START_SECTION:top-lang-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tranviet0710&layout=compact&theme=transparent&langs_count=8&hide_border=true)
+![Top Langs](https://raw.githubusercontent.com/tranviet0710/tranviet0710/master/assets/top-langs.svg)
 
 <!--END_SECTION:top-lang--> </div>
 
@@ -85,7 +85,7 @@ Other        35 mins               █░░░░░░░░░░░░░░
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tranviet0710&theme=transparent&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)
+![GitHub Trophies](https://raw.githubusercontent.com/tranviet0710/tranviet0710/master/assets/trophies.svg)
 
 </div>
 
@@ -105,7 +105,7 @@ Other        35 mins               █░░░░░░░░░░░░░░
 
 <div align="center">
 
-[![Viet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tranviet0710&theme=github-compact&hide_border=true)](https://github.com/tranviet0710)
+[![Viet's github activity graph](https://raw.githubusercontent.com/tranviet0710/tranviet0710/master/assets/activity-graph.svg)](https://github.com/tranviet0710)
 
 </div>
 
@@ -165,7 +165,7 @@ Other        35 mins               █░░░░░░░░░░░░░░
 
 <div align="center">
 
-![Metrics](https://metrics.lecoq.io/tranviet0710?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FHo_Chi_Minh)
+![Metrics](https://raw.githubusercontent.com/tranviet0710/tranviet0710/master/assets/metrics.svg)
 
 </div>
 
