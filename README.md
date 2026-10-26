@@ -30,11 +30,11 @@ I'm a passionate software engineer based in Vietnam who loves building innovativ
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         1 hr 2 mins           ███████▓░░░░░░░░░░░░░░░░░   30.62 %
-SSH Config   31 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
-Git Config   30 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
-Docker       28 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-Python       26 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
+Markdown     1 hr 55 mins          ████████▓░░░░░░░░░░░░░░░░   34.71 %
+Bash         57 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
+Python       47 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
+SSH Config   31 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+Git Config   30 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
 ```
 
 <!--END_SECTION:waka-->
